@@ -33,7 +33,7 @@ My main goal is to become a **Full Stack Developer**, building complete applicat
 Currently, I have **basic-level knowledge** of the following technologies and tools. This section will be updated as I develop my skills and gain practical experience.
 
 <p align="left">
-  <a href="#">
+  <a href="" ALT="HTML, CSS, Python, Git, GitHub e Figma">
   <img src="https://skillicons.dev/icons?i=html,css,python,git,github,figma&theme=dark&style=for-the-badge" alt="HTML, CSS, Python, Git, GitHub e Figma" />
   </a>
 </p>
