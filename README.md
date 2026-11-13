@@ -74,7 +74,7 @@ Areas and technologies I intend to explore in the future:
   
 <p align="center">
   <a href="https://github.com/FM-Rigo">
-    <img src="https://github-stats-extended.vercel.app/api?username=FM-Rigo&rank_icon=percentile&custom_title=My%20Stats&include_all_commits=true&theme=ambient_gradient" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=FM-Rigo&rank_icon=rank&custom_title=My%20Stats&include_all_commits=true&theme=transparent" alt="GitHub Stats" />
   </a>
   <!--<a href="https://github.com/FM-Rigo">
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FM-Rigo&theme=ambient_gradient" alt="Used Langs">
