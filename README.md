@@ -106,8 +106,10 @@ Areas and technologies I intend to explore in the future:
 
 ---
 
+## My Social
+
 <p align="center">
-  <b>「Every expert was once a beginner.」</b>
+  <a href="https://www.linkedin.com/in/felipe-rmoreira-a051b5297/" text-decoration="none"><b>LinkedIn</b></a>
   <br/>
 
 <p align="center">
