@@ -72,7 +72,14 @@ Areas and technologies I intend to explore in the future:
 ## 📊 GitHub Statistics
 
   
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=FM-Rigo&rank_icon=percentile&custom_title=My%20Stats&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=FM-Rigo&rank_icon=percentile&custom_title=My%20Stats&include_all_commits=true&theme=ambient_gradient) 
+<p align="center">
+  <a href="https://github.com/FM-Rigo">
+    <img src="https://github-stats-extended.vercel.app/api?username=FM-Rigo&rank_icon=percentile&custom_title=My%20Stats&include_all_commits=true&theme=ambient_gradient" alt="GitHub Stats" />
+  </a>
+  <!--<a href="https://github.com/FM-Rigo">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FM-Rigo&theme=ambient_gradient" alt="Used Langs">
+  </a>-->
+</p>
 
 ---
 
