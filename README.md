@@ -1,56 +1,78 @@
-# 👨‍💻 Felipe R. Moreira
+<h1 align="center">Felipe R. Moreira</h1>
 
-### 🚀 Software Engineering Student | Aspiring Full Stack Developer
+<p align="center">Software Engineering Student | Aspiring Full Stack Developer</p>
 
 <p align="center">
   <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;Learning+and+building+every+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=600&color=36BCF7&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;Learning+and+building+every+day" alt="Typing SVG" />
   </a>
 </p>
+
+<p align="center" id = "redes_sociais">
+<a href="https://www.linkedin.com/in/felipe-rmoreira-a051b5297/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:frmoreira3481@gmail.com/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
 
 ---
 
 ## 🧑‍🚀 About Me
 
-Hi! I'm **Felipe R. Moreira**, a **Software Engineering student at UniSenai PR**, passionate about technology, software development, and innovation.
-
-I'm currently building my journey in programming, constantly improving my skills and turning what I learn into real-world projects.
-
-My main goal is to become a **Full Stack Developer**, building complete applications from Front-End to Back-End.
-
-- 🎓 Software Engineering student at UniSenai PR.
-- 💻 Current focus: Full Stack Development.
-- 🌱 Always learning and building new projects.
-- 🎨 Interested in UI/UX Design and digital experiences.
-- 🌎 Aspiring to build an international career in technology.
-- 🔐 Future interests: Cloud Security & Cybersecurity.
+- **Software Engineering** student at _UniSenai PR_ (2025-2029)
+- Current focus: **Full Stack Development**
+- Always **learning and building** new projects
+- **Interested** in UI/UX Design and digital experiences
+- Future interests: _Cloud Security_
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Stack
 
-### 📌 Current Knowledge — Basic Level
+_Currently, I have **basic-level knowledge** of the following technologies and tools. This section will be **updated** as I develop my skills and gain practical experience_
 
-Currently, I have **basic-level knowledge** of the following technologies and tools. This section will be updated as I develop my skills and gain practical experience.
+**Front-End**
 
 <p align="left">
   <a href="#" alt="HTML, CSS, Python, Git, GitHub e Figma">
-  <img src="https://skillicons.dev/icons?i=html,css,python,git,github,figma&theme=dark&style=for-the-badge" alt="HTML, CSS, Python, Git, GitHub e Figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,figma&theme=dark&style=for-the-badge" alt="HTML, CSS, FIGMA" />
   </a>
 </p>
 
-### 📚 Currently Learning & Exploring
-
-Technologies that are in my current learning roadmap:
+**Back-End and Data**
 
 <p align="left">
   <a href="#">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,spring,react,mysql,supabase,docker&theme=dark" alt="JavaScript, TypeScript, Java, Spring, React, MySQL, Supabase e Docker" />
+  <img src="https://skillicons.dev/icons?i=python,c&theme=dark" alt="Python, C" />
   </a>
 </p>
 
-### 🔮 Future Interests
+**Tools**
 
-Areas and technologies I intend to explore in the future:
+<p align="left">
+  <a href="#">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="GIT, GITHUB, VSCODE" />
+  </a>
+</p>
+
+
+---
+
+## 📊 GitHub Statistics
+
+  
+
+ 
+<img src="https://github-stats-extended.vercel.app/api?username=FM-Rigo&rank_icon=rank&show_icons=true&custom_title=My%20Stats&include_all_commits=false&theme=maroongold&&show=contributions" alt="GitHub Stats" />
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FM-Rigo&theme=maroongold" alt="Most Used Langs">
+ 
+
+<br/>
+
+---
+
+## 🔮 Future Interests
+
+Areas and Technologies I intend to **explore in the future**:
 
 <p align="left">
   <a href="#">
@@ -65,7 +87,6 @@ Areas and technologies I intend to explore in the future:
 </p>
 
 
-
 ---
 
 ## 🎯 Career Roadmap
@@ -73,45 +94,20 @@ Areas and technologies I intend to explore in the future:
 
 | Stage | Objective |
 |---|---|
-| 🟢 Current | Strengthen programming fundamentals |
+| 🟢 Current | Strengthen programming fundamentals both in Front & Back End |
 | 🟡 Next Step | Become a Full Stack Developer |
 | 🔵 Intermediate | Master APIs, Databases and Cloud |
-| 🟣 Long-term | Specialize in Cloud Security & Cybersecurity |
-| 🌎 Dream | Build an international technology career |
+| 🟣 Long-term | Specialize in Cloud Security -> final step on my career |
+| 🌎 Dream | Build an international technology career working remotely anywhere|
 
 
 ---
+<br/>
 
-## 📊 GitHub Statistics
+### - _Open to Networking, Opportunities and Collabs! Send Me a Message on LinkedIn!_
 
-  
-<p align="center">
-  <a href="#">
-    <img src="https://github-stats-extended.vercel.app/api?username=FM-Rigo&rank_icon=rank&show_icons=true&custom_title=My%20Stats&include_all_commits=false&theme=maroongold&hide=prs,issues" alt="GitHub Stats" />
-  </a>
-  <!--<a href="https://github.com/FM-Rigo">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FM-Rigo&theme=ambient_gradient" alt="Used Langs">
-  </a>-->
-</p>
 
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <a href="#">
-  <img src="https://raw.githubusercontent.com/FM-Rigo/FM-Rigo/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
-  </a>
-</p>
-
----
-
-## My Social
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/felipe-rmoreira-a051b5297/" text-decoration="none"><b>LinkedIn</b></a>
-  <br/>
-
+<br/>
 <p align="center">
   <a href="#">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" alt="Blue wave footer" />
