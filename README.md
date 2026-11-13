@@ -57,8 +57,9 @@ Areas and technologies I intend to explore in the future:
 </p>
 
 <p align="left">
+   <a href="#">
     <img src="https://img.shields.io/badge/Cloud%20Security-Future%20Goal-36BCF7?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Security — Future Goal"/>
-    <img src="https://img.shields.io/badge/Cybersecurity-Future%20Goal-36BCF7?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity — Future Goal"/>
+   </a>
 </p>
 
 
