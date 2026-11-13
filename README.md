@@ -3,7 +3,9 @@
 ### 🚀 Software Engineering Student | Aspiring Full Stack Developer
 
 <p align="center">
+  <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;Learning+and+building+every+day" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
