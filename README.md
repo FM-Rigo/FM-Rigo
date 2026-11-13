@@ -33,7 +33,7 @@ My main goal is to become a **Full Stack Developer**, building complete applicat
 Currently, I have **basic-level knowledge** of the following technologies and tools. This section will be updated as I develop my skills and gain practical experience.
 
 <p align="left">
-  <a href="#">
+  <a href="" alt="HTML, CSS, PYTHON, GIT, GITHUB, FIGMA">
   <img src="https://skillicons.dev/icons?i=html,css,python,git,github,figma&theme=dark&style=for-the-badge" alt="HTML, CSS, Python, Git, GitHub e Figma" />
   </a>
 </p>
@@ -43,7 +43,7 @@ Currently, I have **basic-level knowledge** of the following technologies and to
 Technologies that are in my current learning roadmap:
 
 <p align="left">
-  <a href="#">
+  <a>
   <img src="https://skillicons.dev/icons?i=javascript,typescript,java,spring,react,mysql,supabase,docker&theme=dark" alt="JavaScript, TypeScript, Java, Spring, React, MySQL, Supabase e Docker" />
   </a>
 </p>
