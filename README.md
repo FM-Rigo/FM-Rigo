@@ -32,7 +32,7 @@ Currently, I have **basic-level knowledge** of the following technologies and to
 
 <p align="left">
   <a href="#">
-  <img src="https://skillicons.dev/icons?i=html,css,python,git,github,figma&theme=dark" alt="HTML, CSS, Python, Git, GitHub e Figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,git,github,figma&theme=dark&style=for-the-badge" alt="HTML, CSS, Python, Git, GitHub e Figma" />
   </a>
 </p>
 
@@ -57,16 +57,16 @@ Areas and technologies I intend to explore in the future:
 </p>
 
 <p align="left">
-  <a href="#">
-  <img src="https://img.shields.io/badge/Cloud%20Security-Future%20Goal-36BCF7?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Security — Future Goal" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Future%20Goal-36BCF7?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity — Future Goal" />
-  </a>
+    <img src="https://img.shields.io/badge/Cloud%20Security-Future%20Goal-36BCF7?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Security — Future Goal"/>
+    <img src="https://img.shields.io/badge/Cybersecurity-Future%20Goal-36BCF7?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity — Future Goal"/>
 </p>
+
 
 
 ---
 
 ## 🎯 Career Roadmap
+
 
 | Stage | Objective |
 |---|---|
@@ -75,6 +75,7 @@ Areas and technologies I intend to explore in the future:
 | 🔵 Intermediate | Master APIs, Databases and Cloud |
 | 🟣 Long-term | Specialize in Cloud Security & Cybersecurity |
 | 🌎 Dream | Build an international technology career |
+
 
 ---
 
