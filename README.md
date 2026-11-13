@@ -3,67 +3,77 @@
 ### 🚀 Software Engineering Student | Aspiring Full Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;Building+my+future+one+commit+at+a+time;Future+Cloud+%26+Cybersecurity+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;Learning+and+building+every+day" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧑‍🚀 About Me
 
-Olá! Sou **Felipe R. Moreira**, estudante de **Engenharia de Software no UniSenai PR**, apaixonado por tecnologia, desenvolvimento e inovação.
+Hi! I'm **Felipe R. Moreira**, a **Software Engineering student at UniSenai PR**, passionate about technology, software development, and innovation.
 
-Atualmente, estou construindo minha jornada no mundo da programação, desenvolvendo minhas habilidades e buscando me tornar um **Full Stack Developer**.
+I'm currently building my journey in programming, constantly improving my skills and turning what I learn into real-world projects.
 
-Acredito que a melhor maneira de evoluir é aprender constantemente, colocar o conhecimento em prática e transformar ideias em projetos reais.
+My main goal is to become a **Full Stack Developer**, building complete applications from Front-End to Back-End.
 
-- 🎓 Estudante de Engenharia de Software — UniSenai PR.
-- 💻 Focado em desenvolvimento Full Stack.
-- 🌱 Sempre aprendendo e explorando novas tecnologias.
-- 🎨 Interesse em UI/UX Design e experiências digitais.
-- 🌎 Objetivo de construir uma carreira internacional em tecnologia.
-- 🔐 Futuro interesse em Cloud Security & Cybersecurity.
-
+- 🎓 Software Engineering student at UniSenai PR.
+- 💻 Current focus: Full Stack Development.
+- 🌱 Always learning and building new projects.
+- 🎨 Interested in UI/UX Design and digital experiences.
+- 🌎 Aspiring to build an international career in technology.
+- 🔐 Future interests: Cloud Security & Cybersecurity.
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Skills & Technologies
 
-### 📌 Currently Familiar With
+### 📌 Current Knowledge — Basic Level
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,python,git,github,figma&theme=dark" />
-</div>
+Currently, I have **basic-level knowledge** of the following technologies and tools. This section will be updated as I develop my skills and gain practical experience.
 
-### 🎯 Currently Learning & Exploring
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,python,git,github,figma&theme=dark" alt="HTML, CSS, Python, Git, GitHub e Figma" />
+</p>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,spring,react,sql,supabase,docker&theme=dark" />
-</div>
+### 📚 Currently Learning & Exploring
+
+Technologies that are in my current learning roadmap:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,spring,react,mysql,supabase,docker&theme=dark" alt="JavaScript, TypeScript, Java, Spring, React, MySQL, Supabase e Docker" />
+</p>
 
 ### 🔮 Future Interests
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,linux,kubernetes,cloudflare&theme=dark" />
-</div>
+Areas and technologies I intend to explore in the future:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,kubernetes&theme=dark" alt="AWS, Azure, Linux e Kubernetes" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cloud%20Security-Future%20Goal-36BCF7?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Security — Future Goal" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Future%20Goal-36BCF7?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity — Future Goal" />
+</p>
 
 ---
 
-## 🎯 My Career Roadmap
+## 🎯 Career Roadmap
 
-| Stage | Goal |
+| Stage | Objective |
 |---|---|
 | 🟢 Current | Strengthen programming fundamentals |
 | 🟡 Next Step | Become a Full Stack Developer |
-| 🔵 Future | Master Backend, APIs and Cloud Technologies |
+| 🔵 Intermediate | Master APIs, Databases and Cloud |
 | 🟣 Long-term | Specialize in Cloud Security & Cybersecurity |
-| 🌎 Dream | Build an international career in technology |
+| 🌎 Dream | Build an international technology career |
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FM-Rigo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="FM-Rigo GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FM-Rigo&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages by FM-Rigo" />
 </p>
 
 ---
@@ -71,7 +81,7 @@ Acredito que a melhor maneira de evoluir é aprender constantemente, colocar o c
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/FM-Rigo/FM-Rigo/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
 </p>
 
 ---
@@ -79,9 +89,7 @@ Acredito que a melhor maneira de evoluir é aprender constantemente, colocar o c
 <p align="center">
   <b>「Every expert was once a beginner.」</b>
   <br/>
-  🚀 Learning, building and evolving — one commit at a time.
-</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" alt="Blue wave footer" />
 </p>
