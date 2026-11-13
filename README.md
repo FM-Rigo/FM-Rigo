@@ -31,7 +31,9 @@ My main goal is to become a **Full Stack Developer**, building complete applicat
 Currently, I have **basic-level knowledge** of the following technologies and tools. This section will be updated as I develop my skills and gain practical experience.
 
 <p align="left">
+  <a href="#">
   <img src="https://skillicons.dev/icons?i=html,css,python,git,github,figma&theme=dark" alt="HTML, CSS, Python, Git, GitHub e Figma" />
+  </a>
 </p>
 
 ### 📚 Currently Learning & Exploring
@@ -39,7 +41,9 @@ Currently, I have **basic-level knowledge** of the following technologies and to
 Technologies that are in my current learning roadmap:
 
 <p align="left">
+  <a href="#">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,java,spring,react,mysql,supabase,docker&theme=dark" alt="JavaScript, TypeScript, Java, Spring, React, MySQL, Supabase e Docker" />
+  </a>
 </p>
 
 ### 🔮 Future Interests
@@ -47,13 +51,18 @@ Technologies that are in my current learning roadmap:
 Areas and technologies I intend to explore in the future:
 
 <p align="left">
+  <a href="#">
   <img src="https://skillicons.dev/icons?i=aws,azure,linux,kubernetes&theme=dark" alt="AWS, Azure, Linux e Kubernetes" />
+  </a>
 </p>
 
 <p align="left">
+  <a href="#">
   <img src="https://img.shields.io/badge/Cloud%20Security-Future%20Goal-36BCF7?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Security — Future Goal" />
   <img src="https://img.shields.io/badge/Cybersecurity-Future%20Goal-36BCF7?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity — Future Goal" />
+  </a>
 </p>
+
 
 ---
 
@@ -86,7 +95,9 @@ Areas and technologies I intend to explore in the future:
 ## 🐍 Contribution Activity
 
 <p align="center">
+  <a href="#">
   <img src="https://raw.githubusercontent.com/FM-Rigo/FM-Rigo/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
+  </a>
 </p>
 
 ---
@@ -96,5 +107,7 @@ Areas and technologies I intend to explore in the future:
   <br/>
 
 <p align="center">
+  <a href="#">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" width="100%" alt="Blue wave footer" />
+  </a>
 </p>
