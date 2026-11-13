@@ -1,0 +1,22 @@
+name: Profile Summary Cards
+
+on:
+  # Atualiza todo dia às 03:00 UTC
+  schedule:
+    - cron: "0 3 * * *"
+  # Permite rodar manualmente pela aba Actions
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release/v2
+        env:
+          # Token padrão do GitHub, não precisa criar nada
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
