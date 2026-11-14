@@ -57,11 +57,11 @@ _Currently, I have **basic-level knowledge** of the following technologies and t
 
 ## 📊 GitHub Statistics
 
-  
-
- 
-<img src="https://github-stats-extended.vercel.app/api?username=FM-Rigo&rank_icon=rank&show_icons=true&custom_title=My%20Stats&include_all_commits=false&theme=maroongold&&show=contributions" alt="GitHub Stats" /><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FM-Rigo&theme=maroongold" alt="Most Used Langs">
- 
+<a href="">
+<img src="https://github-stats-extended.vercel.app/api?username=FM-Rigo&rank_icon=rank&show_icons=true&custom_title=My%20Stats&include_all_commits=false&theme=dark_github&&show=contributions" alt="GitHub Stats" />
+<br/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FM-Rigo&theme=dark_github" alt="Most Used Langs">
+ </a>
 
 <br/>
 
