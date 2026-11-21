@@ -71,7 +71,7 @@ Areas and Technologies I intend to **explore in the future**:
 
 <p align="left">
   <a href="#">
-  <img src="https://skillicons.dev/icons?i=aws,azure,linux,kubernetes&theme=dark" alt="AWS, Azure, Linux e Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,linux,kubernetes,docker&theme=dark" alt="AWS, Azure, Linux, Kubernetes, docker" />
   </a>
 </p>
 
